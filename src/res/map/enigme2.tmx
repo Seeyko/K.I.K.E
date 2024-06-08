@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.1" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="space" tilewidth="32" tileheight="32" tilecount="256" columns="8">
+  <image source="tileset.png" width="256" height="1024"/>
+ </tileset>
+ <layer name="sol1" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3WMQ7CMAxA0fYy3LcdGTkpC5molILS2Emfpb9GevIQL0u7eQxQy4m28PLy8vLy8uaMl5d3TCsvL+/3rAkc0d79ZLy82bxH7z4rbZ9m8b4qzeZdK5U938Vb9nwXb4mXl3dcb++74yrvdrLe/1K0t/fdwcv7j/cXcy/r1d6M8fLy8o5Sq4l28PLy8vLy8uaNl5eXN9rBy8vLO5v3DXkz6FxAOAAA
+  </data>
+ </layer>
+ <layer name="sol2" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAADwZkvEChtAOAAA
+  </data>
+ </layer>
+ <layer name="objets" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3WTQqDMBCGYXsm6W3aE7nsCTxOfzbWbvpzmH5CFiKjEdSGTN8Hvk00MLOYIUUBAAAAAACAKTsjnnX9nZWLclVuacvZXNdvo9yVVnmE8ypZRdt7Ki/lrXzC2SldOYt5n8mh4T6qZ97JlbWDYzvZY7/979adXNGv3a+Xd0dsbj302Bfr81/k/KZY4hgyZv+rQrCaqbk9GP96mvMydQEAAAAAAAAAAGBVX5zhkIpAOAAA
+  </data>
+ </layer>
+ <layer name="plafond" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3ZQQrCMBCF4Sm0Z+lOPYJLly69XpYeyqX3sAMpxoKa2LR13rwPgoJU8jPVWhSp517xvSxgLzb2YmMvNvZiYy829uLS1mbrTayIvdjYi23ae9lqIyvxNN+b/N7a19zISubMlr3/T3uvyQoFx1rvDfExF0Jv7nyPYrt3nG3ufE+C0evl8xuk7HxWVnvTc7nk+0pZO6/T628f1/nLMY28XrOt95beL1jvLWW1d9QN6/DhmN2w9vF5u8SmFvTu97POrIuvtfKc/XRZ4+neV7EXG3uxeetVnv4rU+zFxl5s7MXGXiIiIiLy4AF+tlCSQDgAAA==
+  </data>
+ </layer>
+ <layer name="collisions" width="60" height="60" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3UQQrDIBAFUOst2gvk7j1lK0QQIY0WshjzHnwwMAs/hkkJAAAAAOjlPXeQD85R5YG0s9GVDu+B1NnoSofXN4/9+5nW71u0ve7Qt75rSuv3bXuezRbbdde5XN/3V7YuEc30bd83ct+Z2ZKoXYt/dlDkvaXvuej/88z+ibyrqrbzaFaxai8AAAAAAI59AEjvrShAOAAA
+  </data>
+ </layer>
+</map>

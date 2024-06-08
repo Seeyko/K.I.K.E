@@ -1,0 +1,64 @@
+Introduction :
+
+Vous venez de vous reveillez a bord d'un vaisseau spatial, cela semble faire lomgtemps que vous dormiez...
+
+Vous vous retrouvez donc seul a bord de ce vaisseau qui a l'époque était controlé par votre équipe et l'intelligence artificielle du vaisseau; qui elle semble toujours a vos cotés.
+
+But du jeu :
+
+Le but du jeu est d'arrivez au bout du vaisseau en résolvant plusieurs énigme qui vous permettrons de vous frayez un chemin dans ce vaisseau.
+Le jeu ayant été développé en 30h, certaines fonctionnalités n'ont pu être implémentée, il est donc important entre chaque action/changement de salle d'écouter ce qu'il se passe pour mieux comprendre le jeu.
+
+----ATTENTION SOLUCE / SPOIL DE GAMEPLAY---
+Avant tout prenez le temps de vous balader un peu et de tenter des choses, le jeu n'est pas vraiment difficile, mais voila une petite explication au cas ou !
+
+A lire seulement si vous ne comprenez pas ou n'arrivez plus a avancer.
+
+-Premiere salle-
+Attendre que les dialogues ai fini de se jouer et ecouter le début de la musique pour changer de salle en appuyant sur espace devant la porte (en se plaçant sur la fléche verte)
+
+-Deuxième salle-
+Vous êtes dans la salle centrale qui relie les différentes salle, prenez le temps d'admirer ses belles étoiles puis dirigez vous vers la droite ou se situe la seule salle ouverte pour le moment.
+Placer vous sur la fleche verte et appuyez sur espace.
+
+-Troisième salle-
+Voici l'enigme "musicale". N'activer rien avant d'avoir fini d'ecouter la mélodie. 
+La melodie que vous venez d'ecouter ce décompose en 3 mesure de 3 notes chacunes (9notes). Chaque plaque ronde de la salle joue 3 notes distinctes. Il faut donc reconstituez la musique que vous venez d'entendre en appuyant sur les plaques dans un certains ordre.
+Si vous voulez réécoutez la musique placer vous devant le bouton rouge a droite de la salle et appuyez sur E.
+Sinon voici la solution : 
+- Plaque tout en haut a gauche au niveau de l'étage.
+- Plaque tout en bas de la salle a droite au rdc.
+- Plaque tout en haut a droite au niveau de l'étage (celle a droite de la première plaque).
+Voila l'énigme et réussi, ecouter les dialogues puis au début de la musique vous pouvez reprendre votre route en retournant dans la salle principal.
+
+-Quatrième salle- 
+Une fois au milieu une autre salle est ouverte (pas visible au niveau de fleche car pas eu le temps de l'implementer) mais c'est la salle tout a gauche. Vous pouvez maintenant y acceder.
+Une fois dedans l'objectif est d'atteindre le bouton en haut a droite de la salle. Il s'agissait a la base d'une énigme avec un puzzle a résoudre (résoudre des calculs binaire puis remettre une carte dans le bonne ordre pour trouver le bon chemin.)
+Mais par manque de temps, il s'agit d'un simple chemin invisible avec des bords invisible. 
+Voici la solution (a peu prés) : 
+ 
+Une fois arrivé au bouton, appuyez sur E devant lui et écouter le dialogue.
+Une fois celui ci finit refaite le chemin inverse et au niveau de l'entré du labyrinthe invisible continué de descendre vous verrez une porte qui était jusque la fermé. Rentrez dedans.
+
+-Cinquième salle-
+Voila, vous voila en hauteur dans une salle qui était accessible depuis le début en bas a gauche de la salle principal mais vous ne pouviez avoir accés au bouton en haut qui est maintenant a porter.
+Voila vous pouvez donc appuyez sur le bouton a coté de vous.
+Cela libére le chemin et active un dialogue ecouter le puis suivez le chemin qui c'est ouvert et retournez dans la premiere salle.
+
+-Sixiéme salle-
+Ce dernier bouton servait enfaite a donner accés a la derniere salle qui ce situe tout en haut de la salle principale.
+La porte maintenant est ouverte vous pouvez y acceder.
+Vous voila dans un couloir long et sinistre, traverser le doucement pour écouter le dialogue puis acceder a la salle suivante.
+
+-Septieme salle-
+Vous voila dans la salle finale face a K.I.K.E le super ordinateur du vaisseau. 
+Pas de combat final a la Street Fighter mais simplement un dialogue a délécter avec passion suivi d'une magnifique musique de fin ! 
+
+-Fin du jeu-
+Voila le jeu est fini pas de cinématique on a pas eu le temps et la fatigue nous a gagné.
+
+Nous esperons que vous avez apprécié le jeux !
+N'hésitez pas a nous envoyez vos avis a andrieutom30@gmail.com 
+cela nous fera plaisir de voir que des gens joue a notre jeux :)
+
+Des bisous de la NoSkillTeam !

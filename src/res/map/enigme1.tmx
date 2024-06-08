@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.1" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="space" tilewidth="32" tileheight="32" tilecount="256" columns="8">
+  <image source="tileset.png" width="256" height="1024"/>
+ </tileset>
+ <tileset firstgid="257" name="space" tilewidth="32" tileheight="32" tilecount="256" columns="8">
+  <image source="tileset.png" width="256" height="1024"/>
+ </tileset>
+ <layer name="sol1" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3XQQrCMBBA0fQy6XFceom6a9cuek9X4jmkkEDUJMZiSGb6A5+sunjM0FI7GGM7rNZp7cKLFy9evHh79T7qcZvb8OLFixcvXrx/zuxr8w6R8Orwbt2Eey+ZSmcsybtE0uydImn1zgmvn/NsPvdbsvea8Pq0eXPWyVmO5A13e1HgDWe3uju34/45qd5wdqu7c7OW7i3Z56N6w2+wVO/o+mYdA+tdsDd0l3i3d/NJgfeX/8HzwbzvVrx4m3t35r01Tmsb3td9xosXL14J3hqntS0VXrx48eLtM7y6vbYSuLUJL168ePHGzxMK7P1bQDgAAA==
+  </data>
+ </layer>
+ <layer name="sol2" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAADwZkvEChtAOAAA
+  </data>
+ </layer>
+ <layer name="objets" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3WMQrCQBCF4d1LeZp4ByvtBC2MihgrtbS0tPR4zsAWy0ZNNbOQ/B88NrLNG4YQQwAAAAAAAAC+i7ULOIphevNOxUrSSPbpt56L7H7p3siezpvvWOd91KniQmct9/vM7s+STnJx7mWhDf33V+d9pee15Cq5Se6OvSyV8+o7/U7Pu3Se/OqYG/oebSRbpy4eYpG2uD9Ijt6ljMxCf7+/dt3Y13FR7nfs/z/GPt8/+Xd4np0AAAAAAAAAAACo7wOH8+Z+QDgAAA==
+  </data>
+ </layer>
+ <layer name="plafond" width="60" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3YQQrCMBBA0enCq8Sd3kBdutOdnsQTi+cwgQaHYMMEN53xfxiwUGEehdoqQkRERERERERkL+WZ1KTOTIZZexbniHvtjThb80Z8e+/G83rXee3p3S3nRfDqXZd2f0gcb5o/t25de7zN8xK/3qv8j7fsXu5VI/t691qrJu/ekX1PEsdr2fss/r0l6+/LQfx7j/Ox1erZW83avVQ9r3znKf691awNuzx7+Vzb+mx1Eb/e1tybaruJP++3d1+r1+Pzs+Vd3/K/hievnujeX4rua8MbO7yxwxs7vLHDGzu8scMbO7xERBS5NwcAuzJAOAAA
+  </data>
+ </layer>
+ <layer name="collisions" width="60" height="60" opacity="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3VWwrDIBAFUMku2g24/x0WPwZaqXlBPkbPARFiAnPJMJYCAAAAAKxk21kzGuVaMe+//1yfLecxR327dXuoJXfm985Z7N+Zs+cdPY+zV/nthaxZm1Z739dHs3nGvKMej2+yulN75nvqat7+/WzZY9aeqTv7rAq1nLtjZsja1AtrNitlBQAAAACAWX0A4yrGmUA4AAA=
+  </data>
+ </layer>
+</map>
